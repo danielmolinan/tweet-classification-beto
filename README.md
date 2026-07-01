@@ -2,7 +2,7 @@
 
 Modelo de clasificación binaria de tweets en español sobre COVID-19, entrenado para distinguir entre menciones de **profesionales sanitarios** y menciones de la **población general**. Proyecto desarrollado como parte del Máster en Data Science, Big Data & Business Analytics en la Universidad Complutense de Madrid.
 
-[![Open In Colab](https://colab.research.google.com/drive/1utmnP9W_7jXRHNeMqPyu-dI8gY0oAobL?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1utmnP9W_7jXRHNeMqPyu-dI8gY0oAobL?usp=sharing)
 
 ---
 
